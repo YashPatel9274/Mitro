@@ -1,7 +1,8 @@
 # Mitro
 Duration: 6 Months
 No. of members: 2
-Front End: HTML, JavaScript, CSS Back End: PHP
+Front End: HTML, JavaScript, CSS 
+Back End: PHP
 Web Server: Xamp Server 
 Database: MySQL 
 Project Details:
